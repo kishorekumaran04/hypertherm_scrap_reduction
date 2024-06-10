@@ -1,4 +1,4 @@
-# hyperthermDAPL
+# Hypertherm Scrap Reduction
 Project for Hypertherm for the Thayer School of Engineering Data Analytics Project Lab course. 
 Professor Geoffrey Parker 
 Spring Term 2024
@@ -10,6 +10,35 @@ Project title: Reducing Carbon Emission by Minimizing Steel Waste
 ### Docs for the project
 * [Final Presentation]([https://docs.google.com/presentation/d/1dStRV1ZOExTIJEzfsv0eXDAbw8WIKH-mX-2jgdKO9Rw/edit?usp=drive_link](https://drive.google.com/file/d/1ZOuMiVnZNY-P22lvO5lX4LpsUD0mofU_/view?usp=drive_link)) 
 * Ask me directly for other docs at kishore.kumaran.gr@dartmouth.edu or kishore.kumaran04@gmail.com
+
+### Sample slides that convey the project
+See some of the most important sample slides from our presentation
+
+![Reducing Carbon Emission by Minimizing Steel Waste-images-0](https://github.com/kishorekumaran04/hypertherm_scrap_reduction/assets/30934994/8216286a-2d3b-4646-a433-1deceef16c88)
+
+![Reducing Carbon Emission by Minimizing Steel Waste-images-2](https://github.com/kishorekumaran04/hypertherm_scrap_reduction/assets/30934994/99cc6371-47a5-40a2-8b2b-a35522c731c4)
+
+
+![Reducing Carbon Emission by Minimizing Steel Waste-images-4](https://github.com/kishorekumaran04/hypertherm_scrap_reduction/assets/30934994/fe3d7249-d972-4e68-8483-d879c80edc5f)
+
+![Reducing Carbon Emission by Minimizing Steel Waste-images-5](https://github.com/kishorekumaran04/hypertherm_scrap_reduction/assets/30934994/cefbbbd1-57e6-4563-8920-2aae062f6c64)
+
+![Reducing Carbon Emission by Minimizing Steel Waste-images-11](https://github.com/kishorekumaran04/hypertherm_scrap_reduction/assets/30934994/053ed5dd-01e9-4675-8365-c8221844fa33)
+
+![Reducing Carbon Emission by Minimizing Steel Waste-images-13](https://github.com/kishorekumaran04/hypertherm_scrap_reduction/assets/30934994/5715601d-2fa6-4010-8a75-bf1eacd79c9e)
+
+![Reducing Carbon Emission by Minimizing Steel Waste-images-16](https://github.com/kishorekumaran04/hypertherm_scrap_reduction/assets/30934994/c9102e60-cfba-47fc-9c3f-d03df9625773)
+
+![Reducing Carbon Emission by Minimizing Steel Waste-images-19](https://github.com/kishorekumaran04/hypertherm_scrap_reduction/assets/30934994/2e65a6e4-6e6c-4214-a527-4a8e7784a644)
+
+![Reducing Carbon Emission by Minimizing Steel Waste-images-21](https://github.com/kishorekumaran04/hypertherm_scrap_reduction/assets/30934994/e6dc9cba-dd8e-4e0e-b04b-15706b7753f6)
+
+![Reducing Carbon Emission by Minimizing Steel Waste-images-22](https://github.com/kishorekumaran04/hypertherm_scrap_reduction/assets/30934994/184a1b78-4e87-4bcc-8392-b393946cfc06)
+
+![Reducing Carbon Emission by Minimizing Steel Waste-images-23](https://github.com/kishorekumaran04/hypertherm_scrap_reduction/assets/30934994/0cc9f813-e3a8-468e-aad5-15c7b79560c6)
+
+![Reducing Carbon Emission by Minimizing Steel Waste-images-26](https://github.com/kishorekumaran04/hypertherm_scrap_reduction/assets/30934994/280897ab-d6dd-4304-8fca-0470a6750718)
+
 
 ### Hypertherm
 Hypertherm was founded in 1968 and is headquartered in Hanover, NH. It has around 2,000 employees and is a 100% employee-owned company. The company has a strong global presence with operations and partner representation across several continents. It is a leading manufacturer of industrial cutting systems and software solutions. The company specializes in producing advanced plasma, laser, and waterjet cutting technologies, which are used in a variety of industries, from manufacturing to shipbuilding. Their innovative, diverse product portfolio of advanced tools and software help businesses precisely cut and shape materials for their specific needs, resulting in higher productivity, better product quality, and reduced operating costs. By integrating advanced cutting technologies with intelligent software solutions, Hypertherm helps businesses efficiently cut and shape steel, ultimately saving time, money, and resources.
